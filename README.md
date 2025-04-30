@@ -1,6 +1,7 @@
 # SMART HEALTH ASSISTANT: Multi-Disease Prediction System
 
-![image](https://github.com/user-attachments/assets/e8b7ad75-42fd-4aba-b586-621e4978904b)
+![image](https://github.com/user-attachments/assets/a943a1e9-ddfd-442d-a580-f9f69ed27107)
+
 
 
 ## 🏥 Project Overview
@@ -72,8 +73,7 @@ SMART-HEALTH-ASSISTANT/
    ```
 
 ## 📊 Sample Prediction
-![Diabetes Prediction Example](https://via.placeholder.com/600x300?text=Diabetes+Prediction+Example) 
-*(Replace with actual prediction screenshot)*
+![image](https://github.com/user-attachments/assets/e8b7ad75-42fd-4aba-b586-621e4978904b)
 
 ## 📜 Citation
 If you use this work in your research, please cite:
@@ -92,8 +92,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 📧 Contact
 **Khadeer Basha K**  
 📧 khadeershaik2906@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🎓 VIT Vellore (20MIY0044)
+🔗 [LinkedIn]([https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278])  
+🎓 VIT Vellore
 
 ---
 
