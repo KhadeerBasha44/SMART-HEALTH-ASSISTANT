@@ -1,4 +1,4 @@
-# SMART HEALTH ASSISTANT: Multi-Disease Prediction System
+# SMART HEALTH ASSISTANT:  A ML MODEL FOR MULTI-DISEASE PREDICTION
 
 ![image](https://github.com/user-attachments/assets/a943a1e9-ddfd-442d-a580-f9f69ed27107)
 
