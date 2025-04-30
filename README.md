@@ -10,7 +10,6 @@ A machine learning-powered web application that predicts three critical diseases
 - **Heart Disease** (Random Forest, 82.38% accuracy) 
 - **Parkinson's Disease** (SVM, 87.41% accuracy)
 
-Developed as my Master's thesis in **Computational Statistics and Data Analytics** at VIT Vellore under the guidance of **Dr. Dharani S**.
 
 ## 🌟 Key Features
 - **Unified Prediction Platform**: Single interface for multiple diseases
