@@ -87,10 +87,10 @@ If you use this work in your research, please cite:
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📧 Contact
-**Khadeer Basha K**  
-📧 khadeershaik2906@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278])
-🎓 VIT Vellore
+Khadeer Basha K
+📧 khadeershaik2906@gmail.com
+🔗 LinkedIn
+🎓 VIT Vellore (20MIY0044)
 
 ---
 
