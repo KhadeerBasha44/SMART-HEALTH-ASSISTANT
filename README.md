@@ -89,9 +89,10 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## 📧 Contact
 **Khadeer Basha K**  
 📧 khadeershaik2906@gmail.com  
-🔗 [LinkedIn][https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278] 
+🔗 [LinkedIn]([https://www.linkedin.com/in/khadeer-basha-k-0a3b4b278])
 🎓 VIT Vellore
 
 ---
 
 *Developed with ❤️ for better healthcare accessibility*
+---
