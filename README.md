@@ -4,7 +4,7 @@ Machine Learning-based system to predict Diabetes, Heart Disease, and Parkinson'
 
 ### 📘 **Project Title**: *Multiple Disease Prediction System using Machine Learning*
 
-This thesis project focuses on developing a machine learning-based system to predict the likelihood of multiple diseases — namely **Diabetes**, **Heart Disease**, and **Parkinson's Disease** — based on user-input medical parameters. The aim is to assist in early diagnosis and risk assessment using data-driven models.
+This project focuses on developing a machine learning-based system to predict the likelihood of multiple diseases — namely **Diabetes**, **Heart Disease**, and **Parkinson's Disease** — based on user-input medical parameters. The aim is to assist in early diagnosis and risk assessment using data-driven models.
 
 The system leverages supervised learning algorithms such as **Random Forest**, **Support Vector Machine (SVM)**, and **Logistic Regression** to achieve accurate predictions. A user-friendly interface was built using **Streamlit** and **Tkinter**, making the tool easily accessible to both medical professionals and general users.
 
