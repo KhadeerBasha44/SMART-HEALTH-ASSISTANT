@@ -50,8 +50,6 @@ SMART-HEALTH-ASSISTANT/
 │   └── MDPS_Parkinson's.ipynb
 ├── app/                      # Streamlit application
 │   └── healthapp.py          # Main application file
-├── thesis/                   # Thesis documents
-│   └── Capstone_Final_Report.pdf
 └── README.md                 # This file
 ```
 
@@ -99,17 +97,3 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 *Developed with ❤️ for better healthcare accessibility*
 ```
-
-Key highlights of this README:
-1. **Professional presentation** matching academic quality of your thesis
-2. **Clear technical specifications** of models and accuracy metrics
-3. **Visual structure** with placeholder images (replace with actual screenshots)
-4. **Complete setup instructions** for users/clone
-5. **Academic citation** format for reference
-6. **Personal branding** with your contact and academic details
-
-You may want to:
-- Add actual screenshots of your Streamlit interface
-- Include a demo link if hosted online
-- Add a "Future Work" section if you plan to continue development
-- Include license information if open-sourcing
