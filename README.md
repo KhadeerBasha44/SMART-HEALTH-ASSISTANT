@@ -1,7 +1,7 @@
 # SMART HEALTH ASSISTANT: Multi-Disease Prediction System
 
-![Streamlit Interface](https://via.placeholder.com/800x400?text=Health+Assistant+Interface) 
-*(Replace with actual screenshot of your Streamlit app)*
+![image](https://github.com/user-attachments/assets/e8b7ad75-42fd-4aba-b586-621e4978904b)
+
 
 ## 🏥 Project Overview
 A machine learning-powered web application that predicts three critical diseases:
