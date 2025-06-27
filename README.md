@@ -83,9 +83,6 @@ If you use this work in your research, please cite:
 }
 ```
 
-## 🤝 Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
 ## 📧 Contact
 **Khadeer Basha K**  
 📧 khadeershaik2906@gmail.com  
