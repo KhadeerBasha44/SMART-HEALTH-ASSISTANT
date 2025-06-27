@@ -30,7 +30,7 @@ A machine learning-powered web application that predicts three critical diseases
 - **Frontend**: Streamlit (Python)
 - **ML Frameworks**: Scikit-learn, XGBoost
 - **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib, SHAP (for explainability)
+- **Visualization**: Matplotlib
 
 ## 📂 Repository Structure
 ```
